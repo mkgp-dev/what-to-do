@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@import './components/font/fonts.all.css';
+
+@layer base {
+    @theme {
+        --font-sans: 'Montserrat', sans-serif;
+    }
+
+    html, body {
+        @apply overflow-hidden scroll-smooth antialiased bg-gray-950 text-slate-100;
+    }
+}
