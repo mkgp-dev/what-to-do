@@ -1,9 +1,13 @@
 # What to do?
 A simple To-Do List project submitted for The Odin Project course.
 
+> [!TIP]
+> Need help setting up TailwindCSS with Webpack?  
+> Check out this [detailed guide](https://gist.github.com/mkgp-dev/66d2f158057c539dad55c24804f66f82) for step-by-step instructions.
+
 ## Features
 - Uses [localForage](https://localforage.github.io/localForage/) for efficient Web Storage API handling
-- Styled with [TailwindCSS](https://tailwindcss.com). You can refer [here](https://gist.github.com/mkgp-dev/66d2f158057c539dad55c24804f66f82) for instructions on installing it with Webpack
+- Built with [TailwindCSS](https://tailwindcss.com) for styling and [Heroicons](https://heroicons.com) for icons
 - Lightweight and simple Task Manager interface
 - Optimized for desktop viewing
 

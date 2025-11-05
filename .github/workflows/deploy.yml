@@ -3,6 +3,8 @@ name: What to do Deployment
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - 'README.md'
   workflow_dispatch:
 
 permissions:
